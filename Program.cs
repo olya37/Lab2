@@ -1,4 +1,4 @@
-using Lab2;
+﻿using Calc_LAB2_Dolganova;
 using System.Text.RegularExpressions;
 
 class Program
@@ -42,6 +42,37 @@ class Program
                         break;
                 }
             }
-        }   
+
+
+        }
+
+
+        
     }
+    
+
+
+
+        //Добавляем первое действие
+
+        //Парсим число, проверяем на q
+
+        //Парсим действие, проверяем само действие
+        
+        //Switchcase действий 
+
+        //Вывод результата
+
+        //Возврат к парсингу ввода числа (рекурсия?)
+
+
+
+
+
+
 }
+
+
+
+
+
