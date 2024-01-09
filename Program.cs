@@ -1,4 +1,4 @@
-using Calc_LAB2_Dolganova;
+using Lab2;
 using System.Text.RegularExpressions;
 
 class Program
